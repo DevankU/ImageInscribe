@@ -1,5 +1,5 @@
 
-# Project Title
+# ImageInscribe
 WEB-APPLICATION based on Flask that converts uploaded images into text.
 
 ## Installation
